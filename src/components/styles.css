@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    background-color: #fc3153;
+    text-align: center;
+  }
+  
+  h3 {
+    font-size: 40px; /* Changed from 70pt to 40px */
+    font-family: 'Luckiest Guy', cursive;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-shadow:   0px -2px 0 #212121,  
+    0px -2px 0 #212121,
+    0px  2px 0 #212121,
+    0px  2px 0 #212121,
+   -2px  0px 0 #212121,  
+    2px  0px 0 #212121,
+   -2px  0px 0 #212121,
+    2px  0px 0 #212121,
+   -2px -2px 0 #212121,  
+    2px -2px 0 #212121,
+   -2px  2px 0 #212121,
+    2px  2px 0 #212121,
+   -2px  6px 0 #212121,
+    0px  6px 0 #212121,
+    2px  6px 0 #212121,
+    0 6px 1px rgba(0,0,0,.1),
+    0 0 2px rgba(0,0,0,.1),
+    0 2px 1px rgba(0,0,0,.3),
+    0 4px 2px rgba(0,0,0,.2),
+    0 6px 6px rgba(0,0,0,.25),
+    0 8px 8px rgba(0,0,0,.2),
+    0 12px 12px rgba(0,0,0,.15);
+  }
+  .f{
+    font-size: 20px; /* Changed from 70pt to 40px */
+    font-family: 'Luckiest Guy', cursive;
+    color: #fff;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-shadow:   0px -2px 0 #212121,  
+    0px -1px 0 #212121,
+    0px  1px 0 #212121,
+    0px  1px 0 #212121,
+   -1px  0px 0 #212121,  
+    1px  0px 0 #212121,
+   -1px  0px 0 #212121,
+    1px  0px 0 #212121,
+   -1px -1px 0 #212121,  
+    1px -1px 0 #212121,
+   -1px  1px 0 #212121,
+    1px  1px 0 #212121,
+   -1px  4px 0 #212121,
+    0px  4px 0 #212121,
+    1px  4px 0 #212121,
+    0 6px 1px rgba(0,0,0,.1),
+    0 0 2px rgba(0,0,0,.1),
+    0 2px 1px rgba(0,0,0,.3),
+    0 4px 2px rgba(0,0,0,.2),
+    0 6px 6px rgba(0,0,0,.25),
+    0 8px 8px rgba(0,0,0,.2),
+    0 12px 12px rgba(0,0,0,.15);
+  }
+  
+/* Additional CSS styles can be added here */
