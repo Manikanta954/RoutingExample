@@ -9,7 +9,7 @@ function Contact() {
     <h4>Father : 9xxxxxxxx</h4>
     <h4>Mother : 6xxxxxxxx</h4>
     <h4>Sister : 8xxxxxxxx</h4>
-    <h4>Me     : 9xxxxxxx</h4></div>
+    <h4>Me     : 7xxxxxxx</h4></div>
     </>
   )
 }
